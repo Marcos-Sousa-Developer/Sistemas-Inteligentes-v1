@@ -52,12 +52,6 @@ em que a posição inicial do Pacman comilão é (1,1), as passagens do pacman a
 
 **Teste de objetivo:** Ponto >= Goal
 
-
-         
-
-
-
-
 ## Definição da classe PacmanPastilhas
 <span style='color:red'> **Importante !!**</span> 
 
