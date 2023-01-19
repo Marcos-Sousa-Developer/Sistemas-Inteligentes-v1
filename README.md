@@ -16,7 +16,7 @@ jupyter:
 
 ## Mini-projeto 1: Pacman comilão
 
-<img src="https://www.gamesver.com/wp-content/uploads/2022/03/Famous-old-video-game-scene.png.webp" alt="Drawing" style="width: 100px;"/>
+<img src="https://play-lh.googleusercontent.com/V-lvUzA5kK0Xw3wdg8Ct3vfIMXUX5vXYcNLPmudaZ-eyQjedYz-luqIuLmJO6KodE0Y" alt="Drawing" style="width: 100px;"/>
 
 
 ## Grupo: 02
