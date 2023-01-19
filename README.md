@@ -3,7 +3,7 @@
 
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h1 id="Sistemas-Inteligentes-2021/2022">Sistemas Inteligentes 2021/2022<a class="anchor-link" href="#Sistemas-Inteligentes-2021/2022">¶</a></h1><h2 id="Mini-projeto-1:-Pacman-comil%C3%A3o">Mini-projeto 1: Pacman comilão<a class="anchor-link" href="#Mini-projeto-1:-Pacman-comil%C3%A3o">¶</a></h2><p><img src="pacman.png" alt="Drawing" style="width: 100px;"></p>
+<h1 id="Sistemas-Inteligentes-2021/2022">Sistemas Inteligentes 2021/2022<a class="anchor-link" href="#Sistemas-Inteligentes-2021/2022">¶</a></h1><h2 id="Mini-projeto-1:-Pacman-comil%C3%A3o">Mini-projeto 1: Pacman comilão<a class="anchor-link" href="#Mini-projeto-1:-Pacman-comil%C3%A3o">¶</a></h2><p><img src="https://w1.pngwing.com/pngs/152/918/png-transparent-pacman-pacman-2-the-new-adventures-ms-pacman-video-games-ghosts-yellow-smiley-emoticon.png" alt="Drawing" style="width: 100px;"></p>
 
 </div>
 </div>
